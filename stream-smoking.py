@@ -19,7 +19,7 @@ st.set_page_config(
 # =========================
 import os
 import pickle
-import gdown
+
 
 MODEL_FILE = "random_forest_streamlit.pkl"
 
